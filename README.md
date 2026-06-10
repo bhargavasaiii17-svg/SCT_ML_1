@@ -78,6 +78,16 @@ Predicted House Price:
 
 **$240,377.51**
 
+## 📷 Project Screenshots
+
+### Actual vs Predicted House Prices
+
+![Graph](Graph.png)
+
+### Model Output
+
+![Output](Output.png)
+
 ---
 
 ## 🚀 Outcome
